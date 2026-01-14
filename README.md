@@ -84,8 +84,7 @@ Based on the business request, the following user stories were formulated to ens
 ## Dashboard
 An interactive Power BI dashboard was developed to meet all business requirements.
 
-<img width="1920" height="1095" alt="SalesAnalysisFinal" src="https://github.com/user-attachments/assets/3edd452e-6f58-42c2-bbdb-77b8750d3a1a" />
-
+<img width="1101" height="614" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/f76bf554-614c-44a0-882f-163d0993d992" />
 
 ---
 
