@@ -1,5 +1,8 @@
-# Internet Sales Performance Dashboard  
-**Data Analytics Portfolio Project**
+# Sales Performance Dashboard  
+
+<img width="1101" height="614" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/f76bf554-614c-44a0-882f-163d0993d992" />
+
+---
 
 ## Overview
 This project delivers an end-to-end **sales analytics solution**, transforming static sales reports into **interactive Power BI dashboards** to support decision-making for sales managers and sales representatives.
@@ -78,13 +81,6 @@ Based on the business request, the following user stories were formulated to ens
   - Product
   - Time period
 - KPIs for quick performance assessment
-
----
-
-## Dashboard
-An interactive Power BI dashboard was developed to meet all business requirements.
-
-<img width="1101" height="614" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/f76bf554-614c-44a0-882f-163d0993d992" />
 
 ---
 
