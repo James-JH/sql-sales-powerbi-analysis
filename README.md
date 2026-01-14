@@ -52,13 +52,19 @@ Based on the business request, the following user stories were formulated to ens
 
 **Workflow**
 1. Set up a SQL Server instance using **Docker**
+   
 <img width="972" height="474" alt="Docker" src="https://github.com/user-attachments/assets/2197d91a-4795-4956-bcf6-cabda34c0cb6" />
+
 2. Connected and queried the AdventureWorks database via **Azure Data Studio**
+   
 <img width="968" height="758" alt="AzureDataStudio" src="https://github.com/user-attachments/assets/9ec7b76e-9eaa-464e-afce-74e7433132de" />
+
 3. Cleaned and transformed data using **SQL**
 4. Loaded datasets into **Power BI**
 5. Built a semantic model with relationships and calculated measures
+   
 <img width="873" height="420" alt="SemanticModel" src="https://github.com/user-attachments/assets/56c9dbda-32f9-40e5-b761-fbf12ed5287c" />
+
 6. Designed dashboards aligned to business requirements
 
 ---
