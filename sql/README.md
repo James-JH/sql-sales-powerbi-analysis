@@ -10,6 +10,9 @@ The queries focus on producing **analysis-ready dimension and fact tables** by r
 ## Queries Included
 
 ### 1. Date Dimension (DimDate)
+
+<img width="478" height="386" alt="image" src="https://github.com/user-attachments/assets/db182c44-5d32-4337-b7f7-afd8963c26ac" />
+
 - Cleaned and simplified the date table
 - Renamed columns for readability
 - Added short month names for reporting
@@ -20,6 +23,9 @@ The queries focus on producing **analysis-ready dimension and fact tables** by r
 ---
 
 ### 2. Customer Dimension (DimCustomer)
+
+<img width="764" height="560" alt="image" src="https://github.com/user-attachments/assets/e8e48a61-d458-4442-a4c0-0dc2cb745b36" />
+
 - Removed unused demographic fields
 - Created a `FullName` field for reporting
 - Normalised gender values
@@ -31,6 +37,9 @@ The queries focus on producing **analysis-ready dimension and fact tables** by r
 ---
 
 ### 3. Product Dimension (DimProduct)
+
+<img width="654" height="676" alt="image" src="https://github.com/user-attachments/assets/b93b4f7a-60cc-41d4-9b68-28c890692742" />
+
 - Renamed columns to business-friendly names
 - Joined product category and subcategory tables
 - Removed non-essential attributes
@@ -43,7 +52,6 @@ The queries focus on producing **analysis-ready dimension and fact tables** by r
 ### 4. Internet Sales Fact Table (FactInternetSales)
 
 <img width="865" height="551" alt="image" src="https://github.com/user-attachments/assets/e13bc2b6-1642-4761-a6e5-48dcb474108d" />
-
 
 - Selected only key sales metrics
 - Removed redundant transactional fields
