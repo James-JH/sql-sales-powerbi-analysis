@@ -9,6 +9,8 @@ This project delivers an end-to-end **sales analytics solution**, transforming s
 
 The dashboards focus on **internet sales performance by product and customer**, trend analysis over time, and **budget vs actual comparisons**, enabling clearer insights and more effective follow-ups.
 
+To fully explore the interactive dashboard and underlying insights, please download the .pbix file and open it in Power BI Desktop.
+
 ---
 
 ## Business Request
