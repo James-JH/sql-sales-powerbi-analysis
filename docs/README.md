@@ -15,5 +15,6 @@ We also track results against the budget, so I’ve attached the 2026 budget for
 Please let me know if you need any additional information or clarification.
 
 Kind regards,
+
 Daniel
 
