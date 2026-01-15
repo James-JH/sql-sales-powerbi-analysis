@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This project delivers an end-to-end **sales analytics solution**, transforming static sales reports into **interactive Power BI dashboards** to support decision-making for sales managers and sales representatives.
+This project delivers an end-to-end **sales analytics solution**, transforming static sales reports into an **interactive Power BI dashboard** to support decision-making for sales managers and sales representatives.
 
 The dashboards focus on **internet sales performance by product and customer**, trend analysis over time, and **budget vs actual comparisons**, enabling clearer insights and more effective follow-ups.
 
@@ -15,7 +15,7 @@ To fully explore the interactive dashboard, please download the .pbix file locat
 
 ## Business Request
 
-Sales reporting previously relied on static reports, limiting visibility into trends, performance drivers, and budget tracking. The business required interactive dashboards to better understand performance and support proactive decision-making.
+Sales reporting previously relied on static reports, limiting visibility into trends, performance drivers, and budget tracking. The business required an interactive dashboard to better understand performance and support proactive decision-making.
 
 **Value of Change**
 - Improved visibility of sales trends over time  
@@ -70,7 +70,7 @@ Based on the business request, the following user stories were formulated to ens
    
 <img width="873" height="420" alt="SemanticModel" src="https://github.com/user-attachments/assets/56c9dbda-32f9-40e5-b761-fbf12ed5287c" />
 
-6. Designed dashboards aligned to business requirements
+6. Designed dashboard aligned to business requirements
 
 ---
 
