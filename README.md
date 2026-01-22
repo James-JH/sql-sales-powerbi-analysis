@@ -43,7 +43,7 @@ Based on the business request, the following user stories were formulated to ens
 ---
 
 ## Dataset
-- **Source:** Microsoft **AdventureWorks 2025**
+- **Source:** [Microsoft **AdventureWorks 2025**](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 - **Data Type:** Internet sales, customers, products, sales territories, budgets
 - **Budget Data:** Provided via Excel (2026)
 
