@@ -102,6 +102,6 @@ This project demonstrates the ability to:
 - Data storytelling for stakeholders  
 - Tools: Docker, Terminal, Azure Data Studio  
 
-## Author:
+## Author
 Developed by: @James-JH
 01/2026
